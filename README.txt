@@ -1,4 +1,4 @@
-Capstone Defence is designed by Doug Hartley, James Bridges, Mitchell O'Hair, Jenna MacKool, Stevan Rajkovic, and Jagjot Singh.
+Capstone Defence is designed by @Jagjot Singh @James Bridges @Mitchell O'Hair
 
 Location:
 The website is hosted by the IP address http://34.66.171.142/. Please copy and paste this into the address bar into your
@@ -31,4 +31,4 @@ tapping on the 'x' button on the notification will prevent it from showing up fo
 
 Link to GitHub:
 
-https://github.com/JTBridges/Capstone-Defence
+https://github.com/jagjotsingh1/Capstone-Defence
