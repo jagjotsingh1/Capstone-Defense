@@ -5,6 +5,9 @@ We developed the tower defense game within Unity editor using C# and creating a 
 - Login/Logout features
 - Two step verification
 - Updating live scores
+- Playable Unity game on Andriod (.APK)
+- Download off http://34.66.171.142/index.php
+- Game scales as the user progresses through waves
 
 The experience gained with this project includes:
 - Experience within Cloud servers, storage, and configuration
